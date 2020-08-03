@@ -28,7 +28,7 @@ Gem::Specification.new do |gem|
 
   gem.add_development_dependency('mustache', '>= 0.9', '< 2.0')
   gem.add_development_dependency('pry', '~> 0.9')
-  gem.add_development_dependency('rake', '~> 10.3')
+  gem.add_development_dependency('rake', '~> 13.0')
   gem.add_development_dependency('rspec', '~> 3.5')
   gem.add_development_dependency('rubocop', '~> 0.76')
   gem.add_development_dependency('rubocop-performance', '~> 1.5')
